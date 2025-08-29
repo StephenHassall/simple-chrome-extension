@@ -1,0 +1,6 @@
+/**
+ * Extra CSS
+ */
+html {
+  filter: grayscale(100%) invert(90%);
+}

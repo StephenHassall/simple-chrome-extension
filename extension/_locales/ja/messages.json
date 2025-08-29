@@ -1,0 +1,8 @@
+{
+    "title": {
+        "message": "色反転"
+    },
+    "description": {
+        "message": "Web ページ上の色をグレースケール化して反転します。"
+    }
+}
